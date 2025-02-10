@@ -1,0 +1,50 @@
+body {
+    background-color: #e0c5e7;
+}
+
+.image > img {
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.About_Me > hr {
+    clear: left;
+    margin-top: 50px;
+}
+
+.description {
+    margin-left: 200px;
+}
+
+.description > h1 {
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.description > h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.description > p {
+    margin-top: 0;
+}
+
+h1 {
+    color: #1c1c3f;
+}
+
+h2 {
+    color: #3d3d6b;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #6b6b9e;
+}
+
+h4 {
+    color: #9b89b3;
+}
